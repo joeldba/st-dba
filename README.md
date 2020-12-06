@@ -5,3 +5,4 @@
 * nord-colorscheme
 * anysize
 * alpha
+* scrollback
