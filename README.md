@@ -1,5 +1,5 @@
 # Prerequisites:
-* nerd-fonts-hack
+* terminus-font-otb
 
 # Patches applied:
 * gruvbox - the best colorscheme, obviously
