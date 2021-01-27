@@ -1,5 +1,5 @@
 # Prerequisites:
-* ttf-hack
+* terminus-font
 
 # Recommended, but not required:
 * picom-tryone-git (for a translucent background)
