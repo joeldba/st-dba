@@ -5,7 +5,7 @@
 * picom-tryone-git (for a translucent background)
 
 # Patches applied:
-* hybrid colorscheme - the best colorscheme, obviously
+* gruvbox colorscheme - the best colorscheme, obviously
 * anysize - allows st to be transformed freely
 * alpha - translucent background when used w/ a compositor
 * scrollback - implements scrollback functionality
